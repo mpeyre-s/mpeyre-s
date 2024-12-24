@@ -2,7 +2,7 @@
 
 ---
 
-# 👋 Hi, I'm `Mathis Peyre Schortzen`, a 42 student
+# `👋 Hi, I'm Mathis Peyre Schortzen, a 42 student`
 
 📧 **Email** : [mpeyre-s@student.42perpignan.fr](mailto:mpeyre-s@student.42perpignan.fr)
 🔗 **LinkedIn** : [Mathis Peyre Schortzen](https://www.linkedin.com/in/mathis-peyre-schortzen/)
@@ -10,7 +10,7 @@
 
 ---
 
-# 🧑‍🎓 42 Common Core Projects
+# `🧑‍🎓 42 Common Core Projects`
 
 [![image](https://mathis.peyre.info/assets/libft.png)](https://github.com/mpeyre-s/42-libft)
 [![image](https://mathis.peyre.info/assets/ft_printf.png)](https://github.com/mpeyre-s/42-printf)
