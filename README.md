@@ -10,7 +10,7 @@
 
 ---
 
-# `🧑‍🎓 42 Common Core Projects`
+# 🧑‍🎓 42 Common Core Projects
 
 [![image](https://mathis.peyre.info/assets/libft.png)](https://github.com/mpeyre-s/42-libft)
 [![image](https://mathis.peyre.info/assets/ft_printf.png)](https://github.com/mpeyre-s/42-printf)
