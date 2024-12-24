@@ -2,13 +2,14 @@
 
 ---
 
-# 🧑‍🎓 42 Common Core Projects
-
 📧 **Email** : [mpeyre-s@student.42perpignan.fr](mailto:mpeyre-s@student.42perpignan.fr)
 🔗 **LinkedIn** : [Mathis Peyre Schortzen](https://www.linkedin.com/in/mathis-peyre-schortzen/)
 🏫 **Campus** : [42 Perpignan](https://42perpignan.fr)
 
 ---
+
+# 🧑‍🎓 42 Common Core Projects
+
 
 ## ➡️ Libft
 Recréation d'une bibliothèque standard en C.
