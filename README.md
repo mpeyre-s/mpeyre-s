@@ -1,4 +1,4 @@
-![image](https://mathis.peyre.info/assets/desktop_aesthetic_banner.gif)
+![image](https://mathis.peyre.info/assets/banner.gif)
 
 ---
 
