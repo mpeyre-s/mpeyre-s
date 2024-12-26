@@ -9,7 +9,6 @@
 ---
 
 # 🧑‍🎓 42 Common Core Projects
-Collection of project badges available here : [mpeyre-s/42_project_badges](https://github.com/mpeyre-s/42_project_badges)  
 
 <div align="center">
   <img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/libft_bonus.svg" href="https://github.com/mpeyre-s/42-libft"/>
@@ -17,6 +16,8 @@ Collection of project badges available here : [mpeyre-s/42_project_badges](https
   <img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/get_next_line_bonus.svg" href="https://github.com/mpeyre-s/42-get_next_line"/>
   <img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/born2beroot.svg" href="https://github.com/mpeyre-s/42-born2beroot"/>
   <img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/fractol_bonus.svg" href="https://github.com/mpeyre-s/42-fract_ol"/>
+  </br>
+  <span>Collection of project badges available here : <a href="https://github.com/mpeyre-s/42_project_badges">[mpeyre-s/42_project_badges</a></span>
 </div>
 
 ---
