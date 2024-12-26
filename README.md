@@ -11,16 +11,13 @@
 # 🧑‍🎓 42 Common Core Projects
 Collection of project badges available here : [mpeyre-s/42_project_badges](https://github.com/mpeyre-s/42_project_badges)  
 
-
-[![image](https://mathis.peyre.info/assets/libft.png)](https://github.com/mpeyre-s/42-libft)
-[![image](https://mathis.peyre.info/assets/ft_printf.png)](https://github.com/mpeyre-s/42-printf)
-[![image](https://mathis.peyre.info/assets/get_next_line.png)](https://github.com/mpeyre-s/42-get_next_line)
-[![image](https://mathis.peyre.info/assets/born2beroot.png)](https://github.com/mpeyre-s/42-born2beroot)
-[![image](https://mathis.peyre.info/assets/fractol.png)](https://github.com/mpeyre-s/42-fract_ol)
-[![image](https://mathis.peyre.info/assets/minitalk.png)](https://github.com/mpeyre-s/42-minitalk)
-[![image](https://mathis.peyre.info/assets/push_swap.png)](https://github.com/mpeyre-s/42-push_swap)
-[![image](https://mathis.peyre.info/assets/philosophers.png)](https://github.com/mpeyre-s/42-philosophers)
-[![image](https://mathis.peyre.info/assets/minishell.png)](https://github.com/mpeyre-s/42-minishell)
+<div align="center">
+  <img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/libft_bonus.svg" href="https://github.com/mpeyre-s/42-libft"/>
+  <img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/ft_printf.svg" href="https://github.com/mpeyre-s/42-printf"/>
+  <img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/get_next_line_bonus.svg" href="https://github.com/mpeyre-s/42-get_next_line"/>
+  <img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/born2beroot.svg" href="https://github.com/mpeyre-s/42-born2beroot"/>
+  <img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/fractol_bonus.svg" href="https://github.com/mpeyre-s/42-fract_ol"/>
+</div>
 
 ---
 
