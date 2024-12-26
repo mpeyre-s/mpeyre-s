@@ -9,6 +9,8 @@
 ---
 
 # 🧑‍🎓 42 Common Core Projects
+Collection of project badges available here : [mpeyre-s/42_project_badges](https://github.com/mpeyre-s/42_project_badges)  
+
 
 [![image](https://mathis.peyre.info/assets/libft.png)](https://github.com/mpeyre-s/42-libft)
 [![image](https://mathis.peyre.info/assets/ft_printf.png)](https://github.com/mpeyre-s/42-printf)
