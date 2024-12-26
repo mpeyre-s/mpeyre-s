@@ -17,7 +17,7 @@
   <img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/born2beroot.svg" href="https://github.com/mpeyre-s/42-born2beroot"/>
   <img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/fractol_bonus.svg" href="https://github.com/mpeyre-s/42-fract_ol"/>
   </br></br>
-  <span>Collection of project badges available here : <a href="https://github.com/mpeyre-s/42_project_badges">mpeyre-s/42_project_badges</a></span>
+  <span>➡️ Collection of project badges available here : <a href="https://github.com/mpeyre-s/42_project_badges">mpeyre-s/42_project_badges</a></span>
 </div>
 
 ---
