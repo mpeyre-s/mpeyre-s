@@ -19,6 +19,7 @@
   <a href="https://github.com/mpeyre-s/42_minitalk"><img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/minitalk_bonus.svg"/></a>
   <a href="https://github.com/mpeyre-s/42_push_swap"><img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/push_swap.svg"/></a>
   <a href="https://github.com/mpeyre-s/42_minishell"><img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/minishell.svg"/></a>
+  <a href="https://github.com/mpeyre-s/42_philosophers"><img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/philosophers.svg"/></a>
   </br></br>
   <span>➡️ Collection of project badges available here : <a href="https://github.com/mpeyre-s/42_project_badges">mpeyre-s/42_project_badges</a></span>
 </div>
