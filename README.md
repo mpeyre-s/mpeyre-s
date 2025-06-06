@@ -1,4 +1,4 @@
-![image](mathis.peyre.info/assets/banner.gif)
+<img src="https://mathis.peyre.info/assets/banner.gif"/>
 
 ---
 
