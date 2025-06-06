@@ -1,4 +1,4 @@
-<img src="https://mathis.peyre.info/assets/banner.gif"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/banner.gif"/>
 
 ---
 
