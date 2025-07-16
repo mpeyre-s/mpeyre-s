@@ -24,7 +24,8 @@
   <a href="https://github.com/mpeyre-s/42_netpractice"><img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/netpractice.svg"/></a>
   <a href="https://github.com/mpeyre-s/42_CPP"><img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/cpp.svg"/></a>
   <a href="https://github.com/mpeyre-s/42_webserv"><img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/webserv_bonus.svg"/></a>
-  <a href="https://github.com/mpeyre-s/42_inception"><img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/inception.svg"/></a>
+  <a href="https://github.com/mpeyre-s/42_inception"><img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/inception_bonus.svg"/></a>
+  <a href="https://github.com/mathisdev7/ft_transcendence"><img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/ft_transcendence_bonus.svg"/></a>
   </br></br>
   <span>➡️ Collection of project badges available here : <a href="https://github.com/mpeyre-s/42_project_badges">mpeyre-s/42_project_badges</a></span>
 </div>
