@@ -32,5 +32,13 @@
 
 ---
 
+# 🧑‍🎓 42 Post Core Projects
+
+<div align="center">
+  <a href="https://github.com/mpeyre-s/42_django_piscine"><img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/django.svg"/></a>
+</div>
+
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpeyre-s&layout=donut&theme=tokyonight)
 ![Stats](https://github-readme-stats.vercel.app/api?username=mpeyre-s&show_icons=true&theme=tokyonight)
